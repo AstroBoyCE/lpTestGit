@@ -2,3 +2,13 @@ Projeto de teste e aprendizado do uso do git
 Luis Paulo
 
 loucura, essa porra é meio complicada de mexer
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+   cout<<"hello world"<<endl;
+   return 0;
+}
